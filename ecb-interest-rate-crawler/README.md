@@ -12,14 +12,11 @@ browser-based crawling and scraping of real-world announcements.
 3. Clean and normalize data
 4. Store results in CSV format --(df.to_csv)
 
-##TESTING PURPOSE; USE UNITTEST OR PYTEST LIBRARIES
+##TESTING PURPOSE, USE UNITTEST OR PYTEST LIBRARIES
 
 #RUN REQUIREMENTS
 pip install -r requirements.txt  
 playwright install  
-Beautifulsoup install
-Pandas install
-os install
 python main.py
 
 
