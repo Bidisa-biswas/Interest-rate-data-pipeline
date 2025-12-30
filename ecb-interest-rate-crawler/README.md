@@ -44,6 +44,21 @@ Clean and structure the data
 
 Save results to csv file
 
+##  Project Structure
+```text
+ecb-interest-rate-crawler/
+├── README.md                 # This documentation
+├── requirements.txt          # Python dependencies
+├── config.py                # Configuration settings
+├── main.py                  # Main orchestration script
+└── crawler/                 # Modular components
+    ├── __init__.py
+    ├── browser.py           # Browser initialization
+    ├── crawler.py           # Page navigation and link discovery
+    ├── scraper.py           # Data extraction logic
+    └── pipeline.py          # Data processing and CSV export
+```
+
 
 ## Technical Details
 ### Technologies Used
