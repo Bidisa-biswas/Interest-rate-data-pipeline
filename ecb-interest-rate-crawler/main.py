@@ -2,8 +2,8 @@ from crawler.browser import get_page
 from crawler.crawler import crawl_decision_links
 from crawler.scraper import scrape_decision_improved
 from crawler.pipeline import process_and_save
+from config import BASE_URL
 
-BASE_URL = "https://www.ecb.europa.eu/press/pressconf/html/index.en.html"
 
 def main(limit=5):
     playwright, browser, page = get_page()
