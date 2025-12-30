@@ -1,0 +1,9 @@
+playwright
+beautifulsoup4
+pandas
+
+# Optional (for running tests)
+pytest
+
+# After installing packages, run the Playwright browser installers:
+#   playwright install
