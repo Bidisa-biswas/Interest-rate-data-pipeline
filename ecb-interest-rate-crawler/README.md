@@ -17,14 +17,16 @@ git clone https://github.com/yourusername/ecb-interest-rate-crawler.git
 cd ecb-interest-rate-crawler
 ```
 
-Install Python dependencies:
+### Install Python dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-Install Playwright browser:
+```
+### Install Playwright browser:
 
-bash
+```bash
 playwright install chromium
+```
 Usage
 Run the crawler:
 
