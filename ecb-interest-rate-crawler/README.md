@@ -21,6 +21,5 @@ crawling and pipeline design.
 ## How to Run
 pip install -r requirements.txt  
 playwright install 
-playwright install chromium
 python main.py
 
