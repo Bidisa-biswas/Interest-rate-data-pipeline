@@ -1,9 +1,3 @@
-playwright
-beautifulsoup4
-pandas
-
-# Optional (for running tests)
-pytest
-
-# After installing packages, run the Playwright browser installers:
-#   playwright install
+playwright==1.40.0
+beautifulsoup4==4.12.2
+pandas==2.1.4
