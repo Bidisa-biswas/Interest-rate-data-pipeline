@@ -91,6 +91,6 @@ Adding database storage for historical tracking
 
 Creating automated email reports of rate changes
 
-📝 License
+## License
 This project is provided for educational and portfolio purposes.
 
