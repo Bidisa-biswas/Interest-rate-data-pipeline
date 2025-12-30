@@ -1,4 +1,4 @@
-ECB Interest Rate Crawler
+##ECB Interest Rate Crawler
 A Python web scraping tool that extracts historical interest rate decisions from European Central Bank press releases using Playwright and BeautifulSoup.
 
 Overview
