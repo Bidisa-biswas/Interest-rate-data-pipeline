@@ -1,15 +1,15 @@
-##ECB Interest Rate Crawler
+## ECB Interest Rate Crawler
 A Python web scraping tool that extracts historical interest rate decisions from European Central Bank press releases using Playwright and BeautifulSoup.
 
-Overview
+## Overview
 This is a small project demonstrating practical web crawling and data extraction skills by automating the collection of interest rate information from ECB monetary policy announcements. While the ECB provides structured datasets, this implementation focuses on parsing press releases to simulate real-world data extraction scenarios commonly encountered in financial analysis.
 
-Prerequisites
+## Prerequisites
 Python 3.8 or higher
 
 pip package manager
 
-Installation
+### Installation
 Clone the repository:
 
 bash
