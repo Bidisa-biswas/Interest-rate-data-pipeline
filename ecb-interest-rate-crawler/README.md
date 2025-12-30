@@ -9,12 +9,13 @@ Python 3.8 or higher
 
 pip package manager
 
-### Installation
-Clone the repository:
+## Installation
+### Clone the repository:
 
-bash
+```bash
 git clone https://github.com/yourusername/ecb-interest-rate-crawler.git
 cd ecb-interest-rate-crawler
+```
 
 Install Python dependencies:
 
