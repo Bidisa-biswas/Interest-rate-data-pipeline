@@ -4,7 +4,7 @@ import os
 def process_and_save(records, path="data/ecb_interest_rates.csv"):
     """Process a list of scraped records into a CSV file.
 
-    - Ensures the output directory exists.
+
     - Converts records into a DataFrame, drops duplicates and saves to CSV.
     """
     # ensure directory exists
